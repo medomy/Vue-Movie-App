@@ -1,5 +1,8 @@
 # movies-app
 
+## Please note :
+- this here is the unfinished work for an applicataion using vueJs
+- If you have any notes regarding this project please let me know via my e-mail or LinkedIn
 ## Project setup
 ```
 npm install
